@@ -7,6 +7,8 @@
 [![Documentation](https://img.shields.io/badge/Documentation-dokka-brightgreen.svg)](https://omardroid.github.io/ktor-clean-architecture-api/)
 [![Architecture](https://img.shields.io/badge/architecture-clean-green.svg)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
+I have copied this open source repository to make the Alignner Assessment. The main goal is try to transform this in a functional, scalable backend to an Online Store. With Clean Architecture and CQRS (Command Query Responsibility Segregation). I will use their AI agents and ask prompts to model A and model B, see how each one answer.
+
 A production-ready RESTful API built with **Ktor** framework, following **Clean Architecture**
 principles and modern development practices.
 
